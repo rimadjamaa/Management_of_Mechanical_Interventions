@@ -1,0 +1,1049 @@
+[
+  {
+    "NUMVEHICULE": 1,
+    "CLIENT": {
+      "NUMCLIENT": 2,
+      "CIV": "Mme",
+      "PRENOM": "Lamia",
+      "NOM": "TAHMI",
+      "DATENAISSANCE": "31/12/1955",
+      "ADRESSE": "CITE BACHEDJARAH BATIMENT 38 -Bach Djerrah-Alger",
+      "TELPROF": "0562467849",
+      "TELPRIV": "0561392487",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 6,
+      "MARQUE": {
+        "NUMMARQUE": 2,
+        "MARQUE": "AUDI",
+        "PAYS": "ALLEMAGNE"
+      },
+      "MODELE": "Série 5"
+    },
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 7,
+          "TYPEINTERVENTION": "Entretien",
+          "DATEDEBINTERV": "2006-04-09 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 8000,
+          "INTERVENANTS": [
+              {
+                  "NUMEMPLOYE": 55,
+                  "NOMEMP": "HADJ",
+                  "PRENOMEMP": "Zouhir",
+                  "CATEGORIE": "Assistant",
+                  "SALAIRE": 12000
+              },
+              {
+                  "NUMEMPLOYE": 65,
+                  "NOMEMP": "MOHAMMEDI",
+                  "PRENOMEMP": "Mustapha",
+                  "CATEGORIE": "Mécanicien",
+                  "SALAIRE": 24000
+              }
+          ]
+      },
+      {
+        "NUMINTERVENTION": 14,
+        "TYPEINTERVENTION": "Réparation",
+        "DATEDEBINTERV": "2006-05-10 14:00:00",
+        "DATEFININTERV": "2006-05-12 12:00:00",
+        "COUTINTERV": 39000,
+        "INTERVENANTS": [
+            {
+                "NUMEMPLOYE": 80,
+                "NOMEMP": "LARDJOUNE",
+                "PRENOMEMP": "Karim",
+                "CATEGORIE": "Assistant",
+                "SALAIRE": 25000
+            }
+        ]
+    }
+    ],
+    "NUMIMMAT": "0012519216",
+    "ANNEE": 1992
+  },
+  {
+    "NUMVEHICULE": 2,
+    "CLIENT": {
+      "NUMCLIENT": 9,
+      "CIV": "Mle",
+      "PRENOM": "Souad",
+      "NOM": "MESBAH",
+      "DATENAISSANCE": "30/08/1972",
+      "ADRESSE": "RESIDENCE CHABANI HYDRA-ALGER",
+      "TELPROF": "",
+      "TELPRIV": "0561024358",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 20,
+      "MARQUE": {
+        "NUMMARQUE": 11,
+        "MARQUE": "LEXUS",
+        "PAYS": "JAPON"
+      },
+      "MODELE": "GS 300"
+    },
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 10,
+          "TYPEINTERVENTION": "Entretien et Réparation",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 45000,
+          "INTERVENANTS": [
+              {
+                  "NUMEMPLOYE": 63,
+                  "NOMEMP": "CHAOUI",
+                  "PRENOMEMP": "Ismail",
+                  "CATEGORIE": "Assistant",
+                  "SALAIRE": 13000
+              },
+              {
+                  "NUMEMPLOYE": 67,
+                  "NOMEMP": "SAIDOUNI",
+                  "PRENOMEMP": "Wahid",
+                  "CATEGORIE": "Mécanicien",
+                  "SALAIRE": 25000
+              }
+          ]
+        }
+      ]
+  },
+  {
+    "NUMVEHICULE": 3,
+    "CLIENT": {
+      "NUMCLIENT": 17,
+      "CIV": "M. ",
+      "PRENOM": "Messoud",
+      "NOM": "AOUIZ",
+      "DATENAISSANCE": "24/11/1958",
+      "ADRESSE": "RUE SAIDANI ABDESSLAM AIN BESSEM-BOUIRA",
+      "TELPROF": "0561439256",
+      "TELPRIV": "0561473625",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 8,
+      "MARQUE": {
+        "NUMMARQUE": 12,
+        "MARQUE": "LOTUS",
+        "PAYS": "GRANDE-BRETAGNE"
+      },
+      "MODELE": "Esprit"
+    },
+    "NUMIMMAT": "1452318716",
+    "ANNEE": 1987,
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 1,
+          "TYPEINTERVENTION": "Réparation",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 30000,
+          "INTERVENANTS": [
+              {
+                  "NUMEMPLOYE": 54,
+                  "NOMEMP": "BOUCHEMLA",
+                  "PRENOMEMP": "Elias",
+                  "CATEGORIE": "Assistant",
+                  "SALAIRE": 10000
+              },
+              {
+                  "NUMEMPLOYE": 59,
+                  "NOMEMP": "BELHAMIDI",
+                  "PRENOMEMP": "Mourad",
+                  "CATEGORIE": "Mécanicien",
+                  "SALAIRE": 19500
+              }
+          ]
+        }
+      ]
+  },
+  {
+    "NUMVEHICULE": 4,
+    "CLIENT": {
+      "NUMCLIENT": 6,
+      "CIV": "Mme",
+      "PRENOM": "Widad",
+      "NOM": "TOUATI",
+      "DATENAISSANCE": "14/08/1965",
+      "ADRESSE": "14 RUE DES FRERES AOUDIA-EL MOURADIA ALGER",
+      "TELPROF": "0561243967",
+      "TELPRIV": "0561401836",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 12,
+      "MARQUE": {
+        "NUMMARQUE": 10,
+        "MARQUE": "ALFA-ROMEO",
+        "PAYS": "ITALIE"
+      },
+      "MODELE": "Spider"
+    },
+    "NUMIMMAT": "3145219816",
+    "ANNEE": 1998
+  },
+  {
+    "NUMVEHICULE": 5,
+    "CLIENT": {
+      "NUMCLIENT": 16,
+      "CIV": "M.",
+      "PRENOM": "Ali",
+      "NOM": "LAAOUAR",
+      "DATENAISSANCE": "",
+      "ADRESSE": "CITE 1ER MAI EX 137 LOGEMENTS-ADRAR",
+      "TELPROF": "0639939410",
+      "TELPRIV": "0561255412",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 23,
+      "MARQUE": {
+        "NUMMARQUE": 14,
+        "MARQUE": "MERCEDES",
+        "PAYS": "ALLEMAGNE"
+      },
+      "MODELE": "Classe E"
+    },
+    "NUMIMMAT": "1278919816",
+    "ANNEE": 1998
+  },
+  {
+    "NUMVEHICULE": 6,
+    "CLIENT": {
+      "NUMCLIENT": 20,
+      "CIV": "M.",
+      "PRENOM": "Younes",
+      "NOM": "CHALAH",
+      "DATENAISSANCE": "",
+      "ADRESSE": "CITE DES 60 LOGTS BT D N 48-NACIRIA-BOUMERDES",
+      "TELPROF": "",
+      "TELPRIV": "0561358279",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 6,
+      "MARQUE": {
+        "NUMMARQUE": 17,
+        "MARQUE": "RENAULT",
+        "PAYS": "FRANCE"
+      },
+      "MODELE": "Safrane"
+    },
+    "NUMIMMAT": "3853319735",
+    "ANNEE": 1997,
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 5,
+          "TYPEINTERVENTION": "Réparation",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 40000,
+          "INTERVENANTS": [
+              {
+                  "NUMEMPLOYE": 56,
+                  "NOMEMP": "OUSSEDIK",
+                  "PRENOMEMP": "Hakim",
+                  "CATEGORIE": "Mécanicien",
+                  "SALAIRE": 20000
+              },
+              {
+                  "NUMEMPLOYE": 60,
+                  "NOMEMP": "IGOUDJIL",
+                  "PRENOMEMP": "Redouane",
+                  "CATEGORIE": "Assistant",
+                  "SALAIRE": 15000
+              }
+          ]
+        }
+      ]
+  },
+  {
+    "NUMVEHICULE": 7,
+    "CLIENT": {
+      "NUMCLIENT": 7,
+      "CIV": "Mle",
+      "PRENOM": "Faiza",
+      "NOM": "ABLOUL",
+      "DATENAISSANCE": "28/10/1967",
+      "ADRESSE": "CITE DIPLOMATIQUE BT BLEU 14B N 3 DERGANA-ALGER",
+      "TELPROF": "0562935427",
+      "TELPRIV": "0561486203",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 8,
+      "MARQUE": {
+        "NUMMARQUE": 12,
+        "MARQUE": "LOTUS",
+        "PAYS": "GRANDE-BRETAGNE"
+      },
+      "MODELE": "Esprit"
+    },
+    "NUMIMMAT": "1453119816",
+    "ANNEE": 1998
+  },
+  {
+    "NUMVEHICULE": 8,
+    "CLIENT": {
+      "NUMCLIENT": 16,
+      "CIV": "M.",
+      "PRENOM": "Ali",
+      "NOM": "LAAOUAR",
+      "DATENAISSANCE": "",
+      "ADRESSE": "CITE 1ER MAI EX 137 LOGEMENTS-ADRAR",
+      "TELPROF": "0639939410",
+      "TELPRIV": "0561255412",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 14,
+      "MARQUE": {
+        "NUMMARQUE": 16,
+        "MARQUE": "PORSCHE",
+        "PAYS": "ALLEMAGNE"
+      },
+      "MODELE": "Classe C"
+    },
+    "NUMIMMAT": "8365318601",
+    "ANNEE": 1986,
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 13,
+          "TYPEINTERVENTION": "Réparation",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 17846,
+          "INTERVENANTS": [
+              {
+                  "NUMEMPLOYE": 64,
+                  "NOMEMP": "BADI",
+                  "PRENOMEMP": "Hatem",
+                  "CATEGORIE": "Assistant",
+                  "SALAIRE": 14000
+              }
+          ]
+        }
+      ]
+  },
+  {
+    "NUMVEHICULE": 9,
+    "CLIENT": {
+      "NUMCLIENT": 13,
+      "CIV": "M.",
+      "PRENOM": "Nabil",
+      "NOM": "BOUALIT",
+      "DATENAISSANCE": "12/02/1969",
+      "ADRESSE": "CITE 300 LOGTS BT 6 N 16 HASSI EL FEUIL-ALGER",
+      "TELPROF": "0561241587",
+      "TELPRIV": "0561298653",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 15,
+      "MARQUE": {
+        "NUMMARQUE": 21,
+        "MARQUE": "VOLVO",
+        "PAYS": "SUEDE"
+      },
+      "MODELE": "S 80"
+    },
+    "NUMIMMAT": "3087319233",
+    "ANNEE": 1992
+  },
+  {
+    "NUMVEHICULE": 10,
+    "CLIENT": {
+      "NUMCLIENT": 20,
+      "CIV": "M.",
+      "PRENOM": "Younes",
+      "NOM": "CHALAH",
+      "DATENAISSANCE": "",
+      "ADRESSE": "CITE DES 60 LOGTS BT D N 48-NACIRIA-BOUMERDES",
+      "TELPROF": "",
+      "TELPRIV": "0561358279",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 22,
+      "MARQUE": {
+        "NUMMARQUE": 20,
+        "MARQUE": "VENTURI",
+        "PAYS": "FRANCE"
+      },
+      "MODELE": "300 Atlantic"
+    },
+    "NUMIMMAT": "9413119935",
+    "ANNEE": 1999,
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 4,
+          "TYPEINTERVENTION": "Entretien",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 10000,
+          "INTERVENANTS": [
+              {
+                  "NUMEMPLOYE": 62,
+                  "NOMEMP": "RAHALI",
+                  "PRENOMEMP": "Ahcene",
+                  "CATEGORIE": "Mécanicien",
+                  "SALAIRE": 24000
+              },
+              {
+                "NUMEMPLOYE": 66,
+                "NOMEMP": "FEKAR",
+                "PRENOMEMP": "Abdelaziz",
+                "CATEGORIE": "Assistant",
+                "SALAIRE": 13500
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "NUMVEHICULE": 11,
+    "CLIENT": {
+      "NUMCLIENT": 9,
+      "CIV": "Mle",
+      "PRENOM": "Souad",
+      "NOM": "MESBAH",
+      "DATENAISSANCE": "30/08/1972",
+      "ADRESSE": "RESIDENCE CHABANI HYDRA-ALGER",
+      "TELPROF": "",
+      "TELPRIV": "0561024358",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 16,
+      "MARQUE": {
+        "NUMMARQUE": 16,
+        "MARQUE": "PORSCHE",
+        "PAYS": "ALLEMAGNE"
+      },
+      "MODELE": "911 Carrera"
+    },
+    "NUMIMMAT": "1572319801",
+    "ANNEE": 1998
+  },
+  {
+    "NUMVEHICULE": 12,
+    "CLIENT": {
+      "NUMCLIENT": 14,
+      "CIV": "M.",
+      "PRENOM": "Nacer",
+      "NOM": "GUERBOUKHA",
+      "DATENAISSANCE": "11/11/1975",
+      "ADRESSE": "14 RUE DE LA LIBERTE-REGHAIA-ALGER",
+      "TELPROF": "",
+      "TELPRIV": "0561928354",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 20,
+      "MARQUE": {
+        "NUMMARQUE": 20,
+        "MARQUE": "VENTURI",
+        "PAYS": "FRANCE"
+      },
+      "MODELE": "400 GT"
+    },
+    "NUMIMMAT": "6025319733",
+    "ANNEE": 1997
+  },
+  {
+    "NUMVEHICULE": 13,
+    "CLIENT": {
+      "NUMCLIENT": 19,
+      "CIV": "M.",
+      "PRENOM": "Hocine",
+      "NOM": "DJADAOUI",
+      "DATENAISSANCE": "07/08/1978",
+      "ADRESSE": "14 CHEMIN DES SAULES-BOUFARIK-BLAIDA",
+      "TELPROF": "",
+      "TELPRIV": "0561486203",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 17,
+      "MARQUE": {
+        "NUMMARQUE": 15,
+        "MARQUE": "PEUGEOT",
+        "PAYS": "FRANCE"
+      },
+      "MODELE": "406 Coupé"
+    },
+    "NUMIMMAT": "5205319736",
+    "ANNEE": 1997
+  },
+  {
+    "NUMVEHICULE": 14,
+    "CLIENT": {
+      "NUMCLIENT": 22,
+      "CIV": "M.",
+      "PRENOM": "Abdellah",
+      "NOM": "KHOUMAIS",
+      "DATENAISSANCE": "18/03/1977",
+      "ADRESSE": "CITE 120 LOGTS BT D7 N 16 CHERAGA-ALGER",
+      "TELPROF": "0561486203",
+      "TELPRIV": "0561429701",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 21,
+      "MARQUE": {
+        "NUMMARQUE": 21,
+        "MARQUE": "VOLVO",
+        "PAYS": "SUEDE"
+      },
+      "MODELE": "POLO"
+    },
+    "NUMIMMAT": "7543119207",
+    "ANNEE": 1992,
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 6,
+          "TYPEINTERVENTION": "Entretien",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 7500,
+          "INTERVENANTS": [
+              {
+                "NUMEMPLOYE": 53,
+                "NOMEMP": "LACHEMI",
+                "PRENOMEMP": "Bouzid",
+                "CATEGORIE": "Mécanicien",
+                "SALAIRE": 25000
+              },
+              {
+                "NUMEMPLOYE": 57,
+                "NOMEMP": "ABAD",
+                "PRENOMEMP": "Abdelhamid",
+                "CATEGORIE": "Assistant",
+                "SALAIRE": 13000
+              }
+          ]
+        }
+      ]
+  },
+  {
+    "NUMVEHICULE": 15,
+    "CLIENT": {
+      "NUMCLIENT": 4,
+      "CIV": "Mle",
+      "PRENOM": "Chahinaz",
+      "NOM": "MELEK",
+      "DATENAISSANCE": "27/06/1955",
+      "ADRESSE": "HLM AISSAT IDIR CAGE 9 ETAGE-EL HARRACH ALGER",
+      "TELPROF": "0634613493",
+      "TELPRIV": "0562529463",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 19,
+      "MARQUE": {
+        "NUMMARQUE": 4,
+        "MARQUE": "BMW",
+        "PAYS": "ALLEMAGNE"
+      },
+      "MODELE": "M 3"
+    },
+    "NUMIMMAT": "3165219723",
+    "ANNEE": 1972
+  },
+  {
+    "NUMVEHICULE": 16,
+    "CLIENT": {
+      "NUMCLIENT": 16,
+      "CIV": "M.",
+      "PRENOM": "Ali",
+      "NOM": "LAAOUAR",
+      "DATENAISSANCE": "",
+      "ADRESSE": "CITE 1ER MAI EX 137 LOGEMENTS-ADRAR",
+      "TELPROF": "0639939410",
+      "TELPRIV": "0561255412",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 21,
+      "MARQUE": {
+        "NUMMARQUE": 21,
+        "MARQUE": "VOLVO",
+        "PAYS": "SUEDE"
+      },
+      "MODELE": "POLO"
+    },
+    "NUMIMMAT": "9015420013",
+    "ANNEE": 1997
+  },
+  {
+    "NUMVEHICULE": 17,
+    "CLIENT": {
+      "NUMCLIENT": 12,
+      "CIV": "Mme",
+      "PRENOM": "Nora",
+      "NOM": "KARA",
+      "DATENAISSANCE": "23/04/1967",
+      "ADRESSE": "CITE 500 LOGTS BT 14 N 15 KOLEA-TIPAZA",
+      "TELPROF": "0561385967",
+      "TELPRIV": "0562471956",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 11,
+      "MARQUE": {
+        "NUMMARQUE": 7,
+        "MARQUE": "FERRARI",
+        "PAYS": "ITALIE"
+      },
+      "MODELE": "550 Maranello"
+    },
+    "NUMIMMAT": "1738619725",
+    "ANNEE": 1976,
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 8,
+          "TYPEINTERVENTION": "Entretien",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 9000,
+          "INTERVENANTS": [
+              {
+                  "NUMEMPLOYE": 54,
+                  "NOMEMP": "BOUCHEMLA",
+                  "PRENOMEMP": "Elias",
+                  "CATEGORIE": "Assistant",
+                  "SALAIRE": 10000
+              },
+              {
+                "NUMEMPLOYE": 62,
+                "NOMEMP": "RAHALI",
+                "PRENOMEMP": "Ahcene",
+                "CATEGORIE": "Mécanicien",
+                "SALAIRE": 24000
+              }
+          ]
+        }
+      ]
+  },
+  {
+    "NUMVEHICULE": 18,
+    "CLIENT": {
+      "NUMCLIENT": 1,
+      "CIV": "M.",
+      "PRENOM": "Mohamed",
+      "NOM": "KERDJA",
+      "DATENAISSANCE": "07/02/1969",
+      "ADRESSE": "CITE 48 LOGTS BT B4 N 12 BOUIRA",
+      "TELPROF": "0561241587",
+      "TELPRIV": "0561298653",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 2,
+      "MARQUE": {
+        "NUMMARQUE": 1,
+        "MARQUE": "LAMBORGHINI",
+        "PAYS": "ITALIE"
+      },
+      "MODELE": "Diablo"
+    },
+    "NUMIMMAT": "7615419725",
+    "ANNEE": 1972
+  },
+  {
+    "NUMVEHICULE": 19,
+    "CLIENT": {
+      "NUMCLIENT": 18,
+      "CIV": "M.",
+      "PRENOM": "Nourredine",
+      "NOM": "ABDOUCHE",
+      "DATENAISSANCE": "13/07/1980",
+      "ADRESSE": "CITE BEL AID BT B1 N 16 OULED MIMOUN-ALGER",
+      "TELPROF": "",
+      "TELPRIV": "0561486203",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 13,
+      "MARQUE": {
+        "NUMMARQUE": 9,
+        "MARQUE": "AUDI",
+        "PAYS": "ALLEMAGNE"
+      },
+      "MODELE": "TT"
+    },
+    "NUMIMMAT": "1204619725",
+    "ANNEE": 1972
+  },
+  {
+    "NUMVEHICULE": 20,
+    "CLIENT": {
+      "NUMCLIENT": 22,
+      "CIV": "M.",
+      "PRENOM": "Abdellah",
+      "NOM": "KHOUMAIS",
+      "DATENAISSANCE": "18/03/1977",
+      "ADRESSE": "CITE 120 LOGTS BT D7 N 16 CHERAGA-ALGER",
+      "TELPROF": "0561486203",
+      "TELPRIV": "0561429701",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 2,
+      "MARQUE": {
+        "NUMMARQUE": 1,
+        "MARQUE": "LAMBORGHINI",
+        "PAYS": "ITALIE"
+      },
+      "MODELE": "Diablo"
+    },
+    "NUMIMMAT": "8317619733",
+    "ANNEE": 1973,
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 12,
+          "TYPEINTERVENTION": "Entretien et Réparation",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 27000,
+          "INTERVENANTS": [
+              {
+                  "NUMEMPLOYE": 55,
+                  "NOMEMP": "HADJ",
+                  "PRENOMEMP": "Zouhir",
+                  "CATEGORIE": "Assistant",
+                  "SALAIRE": 12000
+              },
+              {
+                "NUMEMPLOYE": 56,
+                "NOMEMP": "OUSSEDIK",
+                "PRENOMEMP": "Hakim",
+                "CATEGORIE": "Mécanicien",
+                "SALAIRE": 20000
+              }
+          ]
+        },
+        {
+          "NUMINTERVENTION": 15,
+          "TYPEINTERVENTION": "Réparation",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 27000
+        }
+      ]
+  },
+  {
+    "NUMVEHICULE": 21,
+    "CLIENT": {
+      "NUMCLIENT": 20,
+      "CIV": "M.",
+      "PRENOM": "Younes",
+      "NOM": "CHALAH",
+      "DATENAISSANCE": "",
+      "ADRESSE": "CITE DES 60 LOGTS BT D N 48-NACIRIA-BOUMERDES",
+      "TELPROF": "",
+      "TELPRIV": "0561358279",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 19,
+      "MARQUE": {
+        "NUMMARQUE": 14,
+        "MARQUE": "MERCEDES",
+        "PAYS": "ALLEMAGNE"
+      },
+      "MODELE": "Classe E"
+    },
+    "NUMIMMAT": "0135219726",
+    "ANNEE": 1972,
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 2,
+          "TYPEINTERVENTION": "Réparation",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 10000,
+          "INTERVENANTS": [
+              {
+                "NUMEMPLOYE": 57,
+                "NOMEMP": "ABAD",
+                "PRENOMEMP": "Abdelhamid",
+                "CATEGORIE": "Assistant",
+                "SALAIRE": 13000
+              },
+              {
+                "NUMEMPLOYE": 59,
+                "NOMEMP": "BELHAMIDI",
+                "PRENOMEMP": "Mourad",
+                "CATEGORIE": "Mécanicien",
+                "SALAIRE": 19500
+              }
+          ]
+        }
+      ]
+  },
+  {
+    "NUMVEHICULE": 22,
+    "CLIENT": {
+      "NUMCLIENT": 8,
+      "CIV": "Mme",
+      "PRENOM": "Assia",
+      "NOM": "HORRA",
+      "DATENAISSANCE": "08/12/1963",
+      "ADRESSE": "15 RUE DU 01 NOVEMBRE-BIRTOUTA-ALGER",
+      "TELPROF": "0561038500",
+      "TELPRIV": "",
+      "FAX": "0562466733"
+    },
+    "MODELE": {
+      "NUMMODELE": 19,
+      "MARQUE": {
+        "NUMMARQUE": 14,
+        "MARQUE": "MERCEDES",
+        "PAYS": "ALLEMAGNE"
+      },
+      "MODELE": "Classe E"
+    },
+    "NUMIMMAT": "9025319774",
+    "ANNEE": 1977,
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 9,
+          "TYPEINTERVENTION": "Entretien",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 7960,
+          "INTERVENANTS": [
+              {
+                "NUMEMPLOYE": 59,
+                "NOMEMP": "BELHAMIDI",
+                "PRENOMEMP": "Mourad",
+                "CATEGORIE": "Mécanicien",
+                "SALAIRE": 19500
+              },
+              {
+                "NUMEMPLOYE": 60,
+                "NOMEMP": "IGOUDJIL",
+                "PRENOMEMP": "Redouane",
+                "CATEGORIE": "Assistant",
+                "SALAIRE": 15000
+              }
+          ]
+        }
+      ]
+  },
+  {
+    "NUMVEHICULE": 23,
+    "CLIENT": {
+      "NUMCLIENT": 7,
+      "CIV": "Mle",
+      "PRENOM": "Faiza",
+      "NOM": "ABLOUL",
+      "DATENAISSANCE": "28/10/1967",
+      "ADRESSE": "CITE DIPLOMATIQUE BT BLEU 14B N 3 DERGANA-ALGER",
+      "TELPROF": "0562935427",
+      "TELPRIV": "0561486203",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 25,
+      "MARQUE": {
+        "NUMMARQUE": 5,
+        "MARQUE": "CADILLAC",
+        "PAYS": "ETATS-UNIS"
+      },
+      "MODELE": "Séville"
+    },
+    "NUMIMMAT": "8515219751",
+    "ANNEE": 1985
+  },
+  {
+    "NUMVEHICULE": 24,
+    "CLIENT": {
+      "NUMCLIENT": 1,
+      "CIV": "M.",
+      "PRENOM": "Mohamed",
+      "NOM": "KERDJA",
+      "DATENAISSANCE": "07/02/1969",
+      "ADRESSE": "CITE 48 LOGTS BT B4 N 12 BOUIRA",
+      "TELPROF": "0561241587",
+      "TELPRIV": "0561298653",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 9,
+      "MARQUE": {
+        "NUMMARQUE": 15,
+        "MARQUE": "PEUGEOT",
+        "PAYS": "FRANCE"
+      },
+      "MODELE": "605"
+    },
+    "NUMIMMAT": "7515219778",
+    "ANNEE": 1998
+  },
+  {
+    "NUMVEHICULE": 25,
+    "CLIENT": {
+      "NUMCLIENT": 13,
+      "CIV": "M.",
+      "PRENOM": "Nabil",
+      "NOM": "BOUALIT",
+      "DATENAISSANCE": "12/02/1969",
+      "ADRESSE": "CITE 300 LOGTS BT 6 N 16 HASSI EL FEUIL-ALGER",
+      "TELPROF": "0561241587",
+      "TELPRIV": "0561298653",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 5,
+      "MARQUE": {
+        "NUMMARQUE": 14,
+        "MARQUE": "MERCEDES",
+        "PAYS": "ALLEMAGNE"
+      },
+      "MODELE": "Classe C"
+    },
+    "NUMIMMAT": "5005319754",
+    "ANNEE": 1998,
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 3,
+          "TYPEINTERVENTION": "Réparation",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 42000,
+          "INTERVENANTS": [
+              {
+                  "NUMEMPLOYE": 65,
+                  "NOMEMP": "MOHAMMEDI",
+                  "PRENOMEMP": "Mustapha",
+                  "CATEGORIE": "Mécanicien",
+                  "SALAIRE": 24000
+              },
+              {
+                "NUMEMPLOYE": 60,
+                "NOMEMP": "IGOUDJIL",
+                "PRENOMEMP": "Redouane",
+                "CATEGORIE": "Assistant",
+                "SALAIRE": 15000
+              }
+          ]
+        }
+      ]
+  },
+  {
+    "NUMVEHICULE": 26,
+    "CLIENT": {
+      "NUMCLIENT": 3,
+      "CIV": "Mle",
+      "PRENOM": "Ghania",
+      "NOM": "DIAF AMROUNI",
+      "DATENAISSANCE": "31/12/1955",
+      "ADRESSE": "CITE 500 LOGTS BT 14 N 15 KOLEA-TIPAZA",
+      "TELPROF": "0523894562",
+      "TELPRIV": "0619430945",
+      "FAX": "0562784254"
+    },
+    "MODELE": {
+      "NUMMODELE": 10,
+      "MARQUE": {
+        "NUMMARQUE": 19,
+        "MARQUE": "TOYOTA",
+        "PAYS": "JAPON"
+      },
+      "MODELE": "Prévia"
+    },
+    "NUMIMMAT": "3155219775",
+    "ANNEE": 1993
+  },
+  {
+    "NUMVEHICULE": 27,
+    "CLIENT": {
+      "NUMCLIENT": 10,
+      "CIV": "Mme",
+      "PRENOM": "Houda",
+      "NOM": "GROUDA",
+      "DATENAISSANCE": "20/02/1950",
+      "ADRESSE": "RUE DR OUIDIR AMAR CITE 1251 LOGTS BT 17 N 8",
+      "TELPROF": "0561385967",
+      "TELPRIV": "0562471956",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 7,
+      "MARQUE": {
+        "NUMMARQUE": 20,
+        "MARQUE": "VENTURI",
+        "PAYS": "FRANCE"
+      },
+      "MODELE": "400 GT"
+    },
+    "NUMIMMAT": "1604319759",
+    "ANNEE": 1998
+  },
+  {
+    "NUMVEHICULE": 28,
+    "CLIENT": {
+      "NUMCLIENT": 10,
+      "CIV": "Mme",
+      "PRENOM": "Houda",
+      "NOM": "GROUDA",
+      "DATENAISSANCE": "20/02/1950",
+      "ADRESSE": "RUE DR OUIDIR AMAR CITE 1251 LOGTS BT 17 N 8",
+      "TELPROF": "0561385967",
+      "TELPRIV": "0562471956",
+      "FAX": ""
+    },
+    "MODELE": {
+      "NUMMODELE": 3,
+      "MARQUE": {
+        "NUMMARQUE": 2,
+        "MARQUE": "AUDI",
+        "PAYS": "ALLEMAGNE"
+      },
+      "MODELE": "Série 5"
+    },
+    "NUMIMMAT": "5165420013",
+    "ANNEE": 1999,
+    "INTERVENTIONS": [
+      {
+          "NUMINTERVENTION": 11,
+          "TYPEINTERVENTION": "Réparation",
+          "DATEDEBINTERV": "2006-04-08 09:00:00",
+          "DATEFININTERV": "2006-04-09 18:00:00",
+          "COUTINTERV": 36000,
+          "INTERVENANTS": [
+              {
+                "NUMEMPLOYE": 59,
+                "NOMEMP": "BELHAMIDI",
+                "PRENOMEMP": "Mourad",
+                "CATEGORIE": "Mécanicien",
+                "SALAIRE": 19500
+              },
+              {
+                "NUMEMPLOYE": 64,
+                "NOMEMP": "BADI",
+                "PRENOMEMP": "Hatem",
+                "CATEGORIE": "Assistant",
+                "SALAIRE": 14000
+              },
+              {
+                "NUMEMPLOYE": 53,
+                "NOMEMP": "LACHEMI",
+                "PRENOMEMP": "Bouzid",
+                "CATEGORIE": "Mécanicien",
+                "SALAIRE": 25000
+              }
+          ]
+        }
+      ]
+  }
+]
+  
